@@ -1,0 +1,34 @@
+vd-document::part(instructions_slide_header) {
+  display: block; /** THIS IS VERY IMPORTANT TO ENABLE THE HIDDEN ELEMENTS */
+  background-color: lime;
+}
+
+vd-document::part(loading_container) {
+  display: block; /** THIS IS VERY IMPORTANT TO ENABLE THE HIDDEN ELEMENTS */
+  background-color: rebeccapurple;
+}
+
+vd-document::part(head_steps) {
+  color: fuchsia;
+}
+vd-document::part(instructions_guide_modal) {
+  background-color: purple;
+}	   
+vd-document::part(instructions_slide) {
+  background-color: orange;
+}             
+vd-document::part(instructions_slide_box) {
+  background-color: green;
+}         
+vd-document::part(instructions_slide_button_prev) {
+  background-color: pink;
+} 
+vd-document::part(instructions_slide_button_next) {
+  background-color: red;
+} 
+vd-document::part(instructions_slide_button) {
+  background-color: maroon;
+}      
+vd-document::part(instructions_slide_dots) {
+  background-color: darkgreen;
+}        
