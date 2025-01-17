@@ -30,5 +30,5 @@ vd-document::part(instructions_slide_button) {
   background-color: maroon;
 }      
 vd-document::part(instructions_slide_dots) {
-  background-color: darkgreen;
+  background-color: blue;
 }        
