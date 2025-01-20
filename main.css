@@ -4,19 +4,19 @@ vd-document::part(loading_container) {
 
 vd-document::part(instructions_slide_header) {
   display: block; /** THIS IS VERY IMPORTANT TO ENABLE THE HIDDEN ELEMENTS */
-  background-color: lime;
+  background-color: red;
 }
 
 vd-document::part(loading_container) {
   display: block; /** THIS IS VERY IMPORTANT TO ENABLE THE HIDDEN ELEMENTS */
-  background-color: rebeccapurple;
+  background-color: green;
 }
 
 vd-document::part(head_steps) {
   color: fuchsia;
 }
 vd-document::part(instructions_guide_modal) {
-  background-color: purple;
+  background-color: green;
 }	   
 vd-document::part(instructions_slide) {
   background-color: orange;
