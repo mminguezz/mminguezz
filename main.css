@@ -1,3 +1,5 @@
+p { color: lime}
+
 vd-document::part(loading_container) {
   background-color: red;
 }
